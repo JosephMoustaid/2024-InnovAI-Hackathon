@@ -25,7 +25,7 @@ Offers 🩺 professional advice to support healthcare providers and customers.
 PharmaIQ revolutionizes pharmacy operations, enhances decision-making, and improves the customer experience.
 
 
-##🎯 Outcomes and Deliverables
+## 🎯 Outcomes and Deliverables
 🚀 Outcomes:
 Streamlined Operations:
 
