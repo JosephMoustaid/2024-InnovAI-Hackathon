@@ -2,7 +2,8 @@
 
 ---
 ## 💊 PharmaIQ: AI-Driven Pharmacy Management System
-🚨 Problem Statement
+
+## 🚨 Problem Statement
 Pharmacies and pharmaceutical distributors face significant challenges:
 
 📊 Effectively managing sales and inventory.
