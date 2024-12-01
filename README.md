@@ -1,4 +1,7 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> eca368f49f151250e65df43ebdd136b1cc572814
 # About The Hackathon
 The MoroccoAI InnovAI Hackathon is a unique opportunity for AI enthusiasts, professionals, and innovators to collaborate and create transformative AI-based solutions addressing real-life challenges in Morocco and across Africa. As part of the annual MoroccoAI Annual Conference, this hackathon is set under the theme “Driving the Future of Innovation Through AI”, inspiring participants to harness AI’s capabilities to make a meaningful societal impact. Participants will join teams to develop Proof of Concepts (PoCs) using applications or APIs that address challenges in various domains. Education, Healthcare, Environment, Finance or Customer Services .
 
@@ -24,6 +27,7 @@ Join the Hackathon server on discord and meet the mentors to learn more about th
 
 # For more information
 https://morocco.ai/events/conferences/MoroccoAI-Conference-2024/pages/hackathon.html
+<<<<<<< HEAD
 =======
 # PharmaIQ:
 
@@ -148,3 +152,5 @@ https://youtu.be/nKZ8oVySx3w?si=Lnj9ZhTHk_u5Afdu
 ![image](https://github.com/user-attachments/assets/3fa344a1-bfae-4bbb-b204-9d882ee59f02)
 ![Screenshot 2024-12-01 202858](https://github.com/user-attachments/assets/eb938181-79ff-43ea-a3d4-78f91c60d9f0)
 >>>>>>> 3c452593053e4d84bb81b36981f45a25668f9236
+=======
+>>>>>>> eca368f49f151250e65df43ebdd136b1cc572814
