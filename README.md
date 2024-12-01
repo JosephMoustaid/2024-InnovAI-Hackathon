@@ -2,51 +2,58 @@
 
 ---
 
-# PharmaIQ: AI-Driven Pharmacy Management System
+##💊 PharmaIQ: AI-Driven Pharmacy Management System
+🚨 Problem Statement
+Pharmacies and pharmaceutical distributors face significant challenges:
 
-## Problem Statement
+📊 Effectively managing sales and inventory.
+⚠️ Predicting product shortages, leading to stock-outs or overstocking.
+🔍 Providing accurate alternatives for unavailable medications.
+🕒 Offering timely advice to enhance healthcare delivery.
+These issues cause inefficiencies, increased costs, and reduced customer satisfaction, impacting businesses and healthcare outcomes.
 
-Pharmacies and pharmaceutical distributors encounter significant challenges in:
 
-- Effectively managing sales and inventory.
-- Predicting product shortages, leading to stock-outs or overstocking.
-- Providing accurate alternatives for unavailable medications.
-- Offering timely advice to enhance healthcare delivery.
+## 💡 Proposed Solution
+PharmaIQ is a next-generation pharmacy management system that uses AI to solve these challenges.
 
-These issues result in inefficiencies, increased costs, and reduced customer satisfaction, impacting both business and healthcare outcomes.
+🌟 Key Features:
+🗂️ Inventory Management: Organizes sales and tracks inventory to reduce waste and ensure availability.
+📈 Shortage Predictions: Employs AI models to forecast next-week shortages and send proactive alerts.
+🤖 AI Assistance:
+Recommends 🧾 alternatives for unavailable medications, considering allergies and compatibility.
+Offers 🩺 professional advice to support healthcare providers and customers.
+PharmaIQ revolutionizes pharmacy operations, enhances decision-making, and improves the customer experience.
 
-## Proposed Solution
 
-**PharmaIQ** is a next-generation pharmacy management system that leverages artificial intelligence to address these challenges. Key features include:
+##🎯 Outcomes and Deliverables
+🚀 Outcomes:
+Streamlined Operations:
 
-- **Inventory Management**: Organizes sales and tracks inventory to reduce waste and ensure availability.
-- **Shortage Predictions**: Uses AI models to forecast next-week shortages and send proactive alerts to users.
-- **AI Assistance**:
-    - Recommends alternatives for unavailable medications, considering allergies and compatibility.
-    - Provides professional advice to assist healthcare providers and customers.
+⚙️ Efficient sales and inventory tracking.
+🔔 Proactive notifications to prevent supply chain disruptions.
+Improved Decision-Making:
 
-PharmaIQ streamlines pharmacy operations, improves decision-making, and enhances customer experience.
+📊 Accurate predictions of product shortages.
+🤝 AI-powered insights for medication alternatives and advice.
+Enhanced Customer Satisfaction:
 
-## Outcomes and Deliverables
+🕒 Timely service with reduced stock-outs.
+🤲 Tailored recommendations for customer needs.
 
-- **Streamlined Operations**:
-    - Efficient sales and inventory tracking.
-    - Proactive notifications to prevent supply chain disruptions.
-- **Improved Decision-Making**:
-    - Accurate predictions of product shortages.
-    - AI-powered insights for medication alternatives and advice.
-- **Customer Satisfaction**:
-    - Timely service with reduced stock-outs.
-    - Tailored recommendations based on customer needs.
+📦 Deliverables:
+🌐 A user-friendly web-based application.
+🤖 AI models for shortage prediction and medication recommendations.
+📑 Comprehensive reports on inventory and sales trends.
 
-Deliverables include:
-
-- A user-friendly web-based application.
-- AI models for shortage prediction and medication recommendations.
-- Comprehensive reports on inventory and sales trends.
 
 ## Instructions for Installation
-
+Before the installation , make sure to have ollama instaled on you computer 
+, then install llama3.2 using the following command to install llama3.2 LLM 
+    
+    ```bash
+    ollama pull llama3.2
+    
+    ```
 1. Clone the repository:
     
     ```bash
