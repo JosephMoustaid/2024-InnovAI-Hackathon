@@ -1,5 +1,6 @@
 # PharmaIQ:
 
+
 ---
 ## 💊 PharmaIQ: AI-Driven Pharmacy Management System
 
@@ -108,4 +109,14 @@ Open your browser and navigate to `http://localhost:8000` for the dashboard.
 
 ## Conclusion
 
-PharmaIQ is designed to revolutionize pharmacy management by integrating AI capabilities to address critical challenges, enhance efficiency, and ensure better healthcare outcomes. With its predictive analytics and intelligent assistance, PharmaIQ sets a new standard for pharmacy operations.
+PharmaIQ is designed to revolutionize pharmacy management by integrating AI capabilities to address critical challenges, enhance efficiency, and ensure better healthcare outcomes. With its predictive analytics and intelligent assistance, PharmaIQ sets a new standard for pharmacy operations.  
+
+
+## Link to the demo video : 
+https://youtu.be/_eUqyHqy0CU?si=91WnpJUZwOD-6Kdu
+## Link to the pitch Video :
+https://youtu.be/nKZ8oVySx3w?si=Lnj9ZhTHk_u5Afdu
+
+## Here are some screen shots  
+![image](https://github.com/user-attachments/assets/3fa344a1-bfae-4bbb-b204-9d882ee59f02)
+![Screenshot 2024-12-01 202858](https://github.com/user-attachments/assets/eb938181-79ff-43ea-a3d4-78f91c60d9f0)
